@@ -1,0 +1,13 @@
+{
+  "name": "rent-tracker",
+  "main": ".output/server/index.mjs",
+  "compatibility_date": "2025-07-15",
+  "d1_databases": [
+    {
+      "binding": "rent_db",
+      "database_name": "rent-db",
+      "database_id": "ce4abc2f-b63b-4a45-8f10-c4ab7e0ee82e",
+      "remote": true,
+    },
+  ],
+}
